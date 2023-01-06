@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm a permanent researcher/INRIA Starting Faculty at [INRIA/IRISA Rennes](https://www.inria.fr/en/inria-centre-rennes-university) in France, working in the area of bioinformatics/computational biology.
+- My research focuses on: **①** search engines for dna seq data, **②** rapid diagnostics of antibiotic resistance, and **③** computational metagenomics.
+- I occasionally contribute to large OSS projects such as [Bioconda](http://bioconda.github.io/) or [Snakemake](https://snakemake.readthedocs.io/); in the past, I worked on [tactile maps for blind users](https://hapticke.mapy.cz/?lang=en).
+- For more info, see my [website](http://karel-brinda.github.io).
+
+
 <!--
 **karel-brinda/karel-brinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
