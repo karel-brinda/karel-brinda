@@ -4,7 +4,8 @@
 - My research focuses on: **①** search engines for dna seq data, **②** rapid diagnostics of antibiotic resistance, and **③** computational metagenomics, which involves extensive method/tool development
 - I developed/co-developed [ProPhyle](http://prophyle.github.io), [ProphAsm](http://github.com/prophyle/prophasm), [ProPhex](http://github.com/prophyle/prophex), [Ococo](http://github.com/karel-brinda/ococo), the [RASE](https://github.com/c2-d2/rase-supplement) ecosystem, [SamSift](http://github.com/karel-brinda/samsift), [RNFtools](http://github.com/karel-brinda/rnftools), [Disty McMatrixface](http://github.com/c2-d2/disty), [DyMaS](http://github.com/karel-brinda/dymas), [SMBL](http://github.com/karel-brinda/smbl), re-engineered [NanoSim-H](https://github.com/karel-brinda/nanosim-h), and participated in the dev of [Seed-Kraken](https://seed-kraken.readthedocs.io/en/latest/)
 - I occasionally contribute to large OSS projects such as [Bioconda](http://bioconda.github.io/) or [Snakemake](https://snakemake.readthedocs.io/); in the past, I worked on [tactile maps for blind users](https://hapticke.mapy.cz/?lang=en).
-- For more info, see my [website](http://karel-brinda.github.io).
+
+For more info, see my [website](http://karel-brinda.github.io).
 
 
 <!--
