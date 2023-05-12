@@ -1,9 +1,11 @@
-- 👋 Hi, I'm Karel, I'm a permanent researcher/Inria Starting Faculty at [Inria/IRISA Rennes](https://www.inria.fr/en/inria-centre-rennes-university) in 🇫🇷.
-- I research in the area of [bioinfo](https://en.wikipedia.org/wiki/Bioinformatics) / [compbio](https://en.wikipedia.org/wiki/Computational_biology) and focus specifically on microbes and antibiotic resistance.
-- My research has three main axes – **① search engines for dna seq data** 🔎🧬, **② rapid diagnostics of antibiotic resistance** 🧫, and **③ computational metagenomics** 🦠 – and all of them involve extensive software development.
-- I developed/co-developed (a non-exhaustive list) [ProPhyle](https://github.com/prophyle/prophyle), [ProphAsm](http://github.com/prophyle/prophasm), [ProPhex](http://github.com/prophyle/prophex), [Ococo](http://github.com/karel-brinda/ococo), the [RASE](https://github.com/c2-d2/rase-supplement) ecosystem, [SamSift](http://github.com/karel-brinda/samsift), [RNFtools](http://github.com/karel-brinda/rnftools), [Disty McMatrixface](http://github.com/c2-d2/disty), [DyMaS](http://github.com/karel-brinda/dymas), [SMBL](http://github.com/karel-brinda/smbl), and participated in the dev of [Seed-Kraken](https://seed-kraken.readthedocs.io/en/latest/), [NanoSim-H](https://github.com/karel-brinda/nanosim-h), and [KmerCamel🐫](https://github.com/GordonHoklinder/kmercamel).
+### Hi there 👋
+
+- I'm a PI at [Inria](https://www.inria.fr/en/), the French National Institute for Research in Digital Science and Technology
+- My research focuses on Computational Genomics, especially **① search engines for dna seq data** 🔎🧬, **② rapid diagnostics of antibiotic resistance** 🧫, and **③ computational metagenomics** 🦠
+- I developed/co-developed (a non-exhaustive list) [MOF-Search](http://github.com/karel-brinda/mof-search), [ProPhyle](https://github.com/prophyle/prophyle), [ProphAsm](http://github.com/prophyle/prophasm), [ProPhex](http://github.com/prophyle/prophex), [Ococo](http://github.com/karel-brinda/ococo), the [RASE](https://github.com/c2-d2/rase-supplement) ecosystem, [SamSift](http://github.com/karel-brinda/samsift), [RNFtools](http://github.com/karel-brinda/rnftools), [Disty McMatrixface](http://github.com/c2-d2/disty), [DyMaS](http://github.com/karel-brinda/dymas), [SMBL](http://github.com/karel-brinda/smbl), and participated in the dev of [Seed-Kraken](https://seed-kraken.readthedocs.io/en/latest/), [NanoSim-H](https://github.com/karel-brinda/nanosim-h), and [KmerCamel🐫](https://github.com/GordonHoklinder/kmercamel).
 - I occasionally contribute to large OSS projects such as [Bioconda](http://bioconda.github.io/) or [Snakemake](https://snakemake.readthedocs.io/). In my previous life, I worked on the development of automatic [tactile maps for blind users](https://hapticke.mapy.cz/?lang=en) that now serve the community
-- For more info, see my [website](http://karel-brinda.github.io).
+
+Learn more about me at http://brinda.eu
 
 
 <!--
